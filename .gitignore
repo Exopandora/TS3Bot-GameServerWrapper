@@ -1,0 +1,13 @@
+# Ignore Everything
+/*
+
+# Except
+
+!/gradle/
+!/run/launchwrapper.json
+!/src/
+!.gitignore
+!build.gradle
+!gradlew
+!gradlew.bat
+!settings.gradle
